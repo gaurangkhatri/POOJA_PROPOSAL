@@ -73,7 +73,7 @@ function App() {
         animate={{ opacity: 1, scale: 1 }}
         transition={{ duration: 0.8 }}
       >
-        <div className="text-pink-600 text-4xl font-bold mb-2">Pooja,</div>
+        <div className="text-pink-600 text-4xl font-bold mb-2">Pooja❤️,</div>
 
         <p className="text-lg text-gray-700 mb-4">
           From the moment our paths crossed, something deep inside told me this was the beginning of something beautiful. 🌟
@@ -84,7 +84,7 @@ function App() {
         </p>
 
         <p className="text-lg text-gray-700 mb-4 italic">
-          “You don’t marry someone you can live with – you marry the person you can’t live without.” – Unknown
+          “You don’t marry someone you can live with – you marry the person you can’t live without.” 
         </p>
 
         <p className="text-lg text-gray-700 mb-6">
@@ -92,7 +92,7 @@ function App() {
         </p>
 
         <h2 className="text-2xl font-semibold text-pink-500 mb-6">
-          So here I am, with all my heart — asking you...  
+          So hey <strong>Anavrin</strong> here I am, with all my heart — asking you...  
           <br />
           Will you make me the happiest person in the world, and be mine forever? 💍💞
         </h2>
@@ -120,7 +120,7 @@ function App() {
             initial={{ opacity: 0 }}
             animate={{ opacity: 1 }}
           >
-            Yay! You said yes! 💖 I can't wait to start this beautiful journey with you! 🌹
+            Yay! You said yes! 💖 I can't wait to start this beautiful journey with you! 🌹💋
           </motion.div>
         )}
 
